@@ -1,0 +1,32 @@
+C:\Users\rashid.129\source\repos\HelloFromCSharp\HelloFromCSharp\bin\Debug\net5.0\HelloFromCSharp.exe
+C:\Users\rashid.129\source\repos\HelloFromCSharp\HelloFromCSharp\bin\Debug\net5.0\HelloFromCSharp.deps.json
+C:\Users\rashid.129\source\repos\HelloFromCSharp\HelloFromCSharp\bin\Debug\net5.0\HelloFromCSharp.runtimeconfig.json
+C:\Users\rashid.129\source\repos\HelloFromCSharp\HelloFromCSharp\bin\Debug\net5.0\HelloFromCSharp.runtimeconfig.dev.json
+C:\Users\rashid.129\source\repos\HelloFromCSharp\HelloFromCSharp\bin\Debug\net5.0\HelloFromCSharp.dll
+C:\Users\rashid.129\source\repos\HelloFromCSharp\HelloFromCSharp\bin\Debug\net5.0\ref\HelloFromCSharp.dll
+C:\Users\rashid.129\source\repos\HelloFromCSharp\HelloFromCSharp\bin\Debug\net5.0\HelloFromCSharp.pdb
+C:\Users\rashid.129\source\repos\HelloFromCSharp\HelloFromCSharp\obj\Debug\net5.0\HelloFromCSharp.csproj.AssemblyReference.cache
+C:\Users\rashid.129\source\repos\HelloFromCSharp\HelloFromCSharp\obj\Debug\net5.0\HelloFromCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rashid.129\source\repos\HelloFromCSharp\HelloFromCSharp\obj\Debug\net5.0\HelloFromCSharp.AssemblyInfoInputs.cache
+C:\Users\rashid.129\source\repos\HelloFromCSharp\HelloFromCSharp\obj\Debug\net5.0\HelloFromCSharp.AssemblyInfo.cs
+C:\Users\rashid.129\source\repos\HelloFromCSharp\HelloFromCSharp\obj\Debug\net5.0\HelloFromCSharp.csproj.CoreCompileInputs.cache
+C:\Users\rashid.129\source\repos\HelloFromCSharp\HelloFromCSharp\obj\Debug\net5.0\HelloFromCSharp.dll
+C:\Users\rashid.129\source\repos\HelloFromCSharp\HelloFromCSharp\obj\Debug\net5.0\ref\HelloFromCSharp.dll
+C:\Users\rashid.129\source\repos\HelloFromCSharp\HelloFromCSharp\obj\Debug\net5.0\HelloFromCSharp.pdb
+C:\Users\rashid.129\source\repos\HelloFromCSharp\HelloFromCSharp\obj\Debug\net5.0\HelloFromCSharp.genruntimeconfig.cache
+C:\Users\dh11a\Music\selenium files\hello c# program\HelloFromCSharp\HelloFromCSharp\bin\Debug\net5.0\HelloFromCSharp.exe
+C:\Users\dh11a\Music\selenium files\hello c# program\HelloFromCSharp\HelloFromCSharp\bin\Debug\net5.0\HelloFromCSharp.deps.json
+C:\Users\dh11a\Music\selenium files\hello c# program\HelloFromCSharp\HelloFromCSharp\bin\Debug\net5.0\HelloFromCSharp.runtimeconfig.json
+C:\Users\dh11a\Music\selenium files\hello c# program\HelloFromCSharp\HelloFromCSharp\bin\Debug\net5.0\HelloFromCSharp.runtimeconfig.dev.json
+C:\Users\dh11a\Music\selenium files\hello c# program\HelloFromCSharp\HelloFromCSharp\bin\Debug\net5.0\HelloFromCSharp.dll
+C:\Users\dh11a\Music\selenium files\hello c# program\HelloFromCSharp\HelloFromCSharp\bin\Debug\net5.0\HelloFromCSharp.pdb
+C:\Users\dh11a\Music\selenium files\hello c# program\HelloFromCSharp\HelloFromCSharp\obj\Debug\net5.0\HelloFromCSharp.csproj.AssemblyReference.cache
+C:\Users\dh11a\Music\selenium files\hello c# program\HelloFromCSharp\HelloFromCSharp\obj\Debug\net5.0\HelloFromCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dh11a\Music\selenium files\hello c# program\HelloFromCSharp\HelloFromCSharp\obj\Debug\net5.0\HelloFromCSharp.AssemblyInfoInputs.cache
+C:\Users\dh11a\Music\selenium files\hello c# program\HelloFromCSharp\HelloFromCSharp\obj\Debug\net5.0\HelloFromCSharp.AssemblyInfo.cs
+C:\Users\dh11a\Music\selenium files\hello c# program\HelloFromCSharp\HelloFromCSharp\obj\Debug\net5.0\HelloFromCSharp.csproj.CoreCompileInputs.cache
+C:\Users\dh11a\Music\selenium files\hello c# program\HelloFromCSharp\HelloFromCSharp\obj\Debug\net5.0\HelloFromCSharp.dll
+C:\Users\dh11a\Music\selenium files\hello c# program\HelloFromCSharp\HelloFromCSharp\obj\Debug\net5.0\refint\HelloFromCSharp.dll
+C:\Users\dh11a\Music\selenium files\hello c# program\HelloFromCSharp\HelloFromCSharp\obj\Debug\net5.0\HelloFromCSharp.pdb
+C:\Users\dh11a\Music\selenium files\hello c# program\HelloFromCSharp\HelloFromCSharp\obj\Debug\net5.0\HelloFromCSharp.genruntimeconfig.cache
+C:\Users\dh11a\Music\selenium files\hello c# program\HelloFromCSharp\HelloFromCSharp\obj\Debug\net5.0\ref\HelloFromCSharp.dll

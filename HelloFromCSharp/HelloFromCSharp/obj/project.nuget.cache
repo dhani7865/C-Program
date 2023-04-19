@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "88nF/UhkGehQCYu995qbLxsEj2IXmej15LI9/ydgVhzpQ9VXOwqo7IwlLGfqy3bxIj2/QpJysx3hakSnvJjLtA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dh11a\\Music\\selenium files\\hello c# program\\HelloFromCSharp\\HelloFromCSharp\\HelloFromCSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dh11a\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\dh11a\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\dh11a\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\dh11a\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
